@@ -1,0 +1,1 @@
+<img src="{{ URL::asset('uploads/site/page/'.$page->image1) }}">	
