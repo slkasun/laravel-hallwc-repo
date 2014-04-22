@@ -54,7 +54,7 @@ return array(
 	|
 	*/
 
-	'from' => array('address' => 'kasun@evokestech.com', 'name' => 'Hallmark WC'),
+	'from' => array('address' => 'username@gmail.com', 'name' => 'From Gmail'),
 
 	/*
 	|--------------------------------------------------------------------------
@@ -80,7 +80,7 @@ return array(
 	|
 	*/
 
-	'username' => 'kasun@evokestech.com',
+	'username' => 'username@gmail.com',
 
 	/*
 	|--------------------------------------------------------------------------
@@ -93,7 +93,7 @@ return array(
 	|
 	*/
 
-	'password' => 'kasun2013',
+	'password' => 'password',
 
 	/*
 	|--------------------------------------------------------------------------
